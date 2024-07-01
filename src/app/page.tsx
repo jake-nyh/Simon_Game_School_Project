@@ -1,7 +1,9 @@
+import SimonGame from "@/components/simonGame";
+
 export default function Home(){
   return (
     <div>
-      Lee pal
+      <SimonGame/>
     </div>
   )
 }
